@@ -1,3 +1,7 @@
+
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGtyaGFvbjF3ZnVybmkzdzR5Y3J5ZTVqcDk3MnNwNG9kNndvcHBmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</div>
 <h1 align="center">Hi 👋, I'm Seteven</h1>
 <h3 align="center">A passionate Mobile developer from Indonesia</h3>
 
